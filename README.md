@@ -156,8 +156,4 @@ LinkedIn: [https://www.linkedin.com/in/srikanth-shanmugam](https://www.linkedin.
 * Chollet, F. — Deep Learning with Python
 * Recent Research on CNNs for Astronomical Image Classification
 
----
 
-If you want, I can also **write a full `train_galaxy_cnn.py` example code** with dataset loading, CNN architecture, training loop, and sample predictions so this README is fully runnable on GitHub.
-
-Do you want me to do that next?
